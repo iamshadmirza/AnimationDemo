@@ -8,7 +8,7 @@
 
 > Repo for saving code written while learning RN animation
 
-### 🏠 [Homepage](https://snack.expo.io/@iamshadmirza/animation-demo)
+### 📲 [Live Demo](https://snack.expo.io/@iamshadmirza/animation-demo)
 
 ## Install
 
